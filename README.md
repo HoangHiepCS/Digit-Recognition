@@ -20,9 +20,12 @@ This structure is known as a feedforward architecture because the connections in
 
 <img width="864" alt="Ảnh màn hình 2024-09-21 lúc 18 57 48" src="https://github.com/user-attachments/assets/b60e116c-a8bb-49a1-a406-b74c9d805024">
 
-__Loss on Test Set and Accuracy of the Model__
+__Loss on Test Set and Accuracy on Test Set__
 
 <img width="560" alt="Ảnh màn hình 2024-09-21 lúc 18 59 08" src="https://github.com/user-attachments/assets/cf6a5bf1-00cd-4eea-9c65-bb7f52678a30">
+
+Loss on test set:__0.025749333434676967__ 
+Accuracy on test set: __0.9910857371794872__
 
 __Result__
 
