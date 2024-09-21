@@ -1,5 +1,5 @@
 # Digit-Recognition
-MNIST Digit Recognition
+MNIST Digit Recognition /n
 An implementation of multilayer neural network using PyTorch with an accuracy over 99%.
 
 About MNIST dataset:
