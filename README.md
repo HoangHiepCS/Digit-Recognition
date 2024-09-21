@@ -1,5 +1,5 @@
 # Digit-Recognition
-MNIST Handwritten Digit Classifier
+MNIST Digit Recognition
 An implementation of multilayer neural network using PyTorch with an accuracy over 99%.
 
 About MNIST dataset:
